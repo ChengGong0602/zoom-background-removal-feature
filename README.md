@@ -1,6 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/prakashsellathurai/zoom-background-removal-feature)
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/prakashsellathurai/zoom-background-removal-feature)
 
 # Pre-trained TensorFlow.js models
 
